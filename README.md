@@ -3,4 +3,4 @@
 
 
 
-https://github.com/Abduttayyeb/Handwritten-Alphabet-Recognition-EMNIST.git 이용
+https://github.com/Abduttayyeb/Handwritten-Alphabet-Recognition-EMNIST.git 템플릿 develop
